@@ -9,7 +9,7 @@
 ## Commit Convention
 This project follows the Conventional Commits standard:
 - feat:  When you add a new file
-        - add index.html file
+        - add .vscode and .setting.json files
 - docs:  When you change the README
         - update README with commit rules
 - chore: Other small tasks like deleting files, updating config, cleanup
