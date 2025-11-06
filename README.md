@@ -69,5 +69,3 @@ Ctrl+/ - toggle line comment.
 - Analyzes JavaScript/TypeScript code for errors and best practices.
 - Shows warnings and errors directly inside VS Code.
 - Can auto-fix issues when `source.fixAll.eslint` is enabled.
-
-
